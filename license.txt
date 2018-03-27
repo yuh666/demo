@@ -6,4 +6,4 @@ checkout是只有工作区会发生变化 aaaa
 checkout取得的总是最近一次 add或者commit的结果
 
 
-aaaa
+aaaa         啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊·
