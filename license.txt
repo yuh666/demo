@@ -4,3 +4,6 @@
 reset是三个地方都会变化
 checkout是只有工作区会发生变化 aaaa
 checkout取得的总是最近一次 add或者commit的结果
+
+
+aaaa
